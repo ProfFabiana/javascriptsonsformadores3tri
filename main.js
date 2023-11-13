@@ -1,3 +1,5 @@
+alert('Olá Mundo');
+
 function somTocaGrilo (){
 
     document.querySelector("#som_tecla_grilo").play();
